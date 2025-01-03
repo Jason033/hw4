@@ -1,5 +1,10 @@
 # hw4
 # hw4-1
+# 執行結果
+![image](https://github.com/user-attachments/assets/e8baa9f4-687e-4cdf-b0cd-3b6657725854)
+![image](https://github.com/user-attachments/assets/081ecb16-e4bd-404c-918e-0a5dca1e090a)
+![image](https://github.com/user-attachments/assets/a6db2105-21bd-4e4a-87de-c8fc5d2b83b3)
+
 ![image](https://github.com/user-attachments/assets/4647301e-a521-41ce-aaf7-89134e98b24e)
 ![image](https://github.com/user-attachments/assets/627af9b1-8ba3-45d5-92c8-cf938f076a68)
 ![image](https://github.com/user-attachments/assets/a31abbe6-c23b-4c84-837a-e84bc9ff02b0)
